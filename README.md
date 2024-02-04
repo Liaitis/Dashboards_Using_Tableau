@@ -10,7 +10,6 @@ The dataset on sales in India for a Global Super store reveals significant insig
 - Notable peaks and troughs in sales occurred during specific quarters, with Maharashtra and Uttar Pradesh emerging as the states with the highest sales.
 - Order priorities are predominantly medium, followed by high, critical, and low.
 - The top-selling product is the "iPhone Full Size," while the "SAFO Executive Leather Armchair" generates the highest profit.
-- Shipping costs exhibit a noteworthy drop in 2015 Q2, and negative discounts are observed for a 0.5 value.
 - Consumer dominance in customer segmentation is evident, followed by the corporate segment, while the home office segment is the smallest.
 - Comparing sales and profit across segments reveals that the Consumer segment leads in sales, while all three segments show similar profit levels.
 - Lastly, the majority of orders are shipped within the 96 to 120-hour timeframe, providing a comprehensive overview of the sales landscape and associated dynamics.

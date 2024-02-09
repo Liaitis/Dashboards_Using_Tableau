@@ -1,4 +1,4 @@
-# Sales_Analysis_Using_Tablaeu
+# Global Super Sales Analysis 
 Dataset Link : https://www.kaggle.com/datasets/apoorvaappz/global-super-store-dataset
 
 Link : https://public.tableau.com/views/SalesInIndia/SalesInIndia?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
@@ -13,3 +13,11 @@ The dataset on sales in India for a Global Super store reveals significant insig
 - Consumer dominance in customer segmentation is evident, followed by the corporate segment, while the home office segment is the smallest.
 - Comparing sales and profit across segments reveals that the Consumer segment leads in sales, while all three segments show similar profit levels.
 - Lastly, the majority of orders are shipped within the 96 to 120-hour timeframe, providing a comprehensive overview of the sales landscape and associated dynamics.
+
+
+# GameStop Product Review
+Dataset Link : https://www.kaggle.com/datasets/crawlfeeds/gamestop-product-reviews-dataset
+
+Link : https://public.tableau.com/views/ProductReview_17072105632370/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+![Local Image](images/GameStopProductReview.png)
+

@@ -26,4 +26,4 @@ Dataset Link :
 
 Link : https://public.tableau.com/views/TableauHRDashboard_16936363818320/HRDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
 
-![Local Image](images/HR Dashboard.png)
+![Local Image](images/HR_Dashboard.png)
